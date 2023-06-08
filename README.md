@@ -1,4 +1,5 @@
-# APPLIED METABOLIC&BIOENERGETIC MODELLING 
+# SYSTEMS AND SYNTHETIC BIOLOGY LABORATORY
+## Chiang Mai University, Thailand
 
 ## Investigating 'life' via metabolic flux and bioenergetic analysis
 ![image](https://user-images.githubusercontent.com/77986547/167161108-23827563-6719-44b0-9f51-749c15a92c4b.png)
