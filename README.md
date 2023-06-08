@@ -1,8 +1,9 @@
 # SYSTEMS AND SYNTHETIC BIOLOGY LABORATORY
 ## Chiang Mai University, Thailand
 
-## Investigating 'life' via metabolic flux and bioenergetic analysis
-![image](https://user-images.githubusercontent.com/77986547/167161108-23827563-6719-44b0-9f51-749c15a92c4b.png)
+## Exploring the Frontiers of Life via Systems and Synthetic Biology
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/6f1051c9-01ce-4966-9cb1-51806af01613)
+
 
 ## **SAHUTCHAI INWONGWAN (GLA), DPhil**
 ### Scientist - Biologist - Biochemist
