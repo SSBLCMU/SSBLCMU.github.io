@@ -6,6 +6,7 @@
 
 ---
 <h1 align="center">Testing the limits of Life via Systems and Synthetic Biology</h1>
+
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/034c6ec8-82d5-4024-a3a8-ad832bfc8020)>  
      
 # About us
