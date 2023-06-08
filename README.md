@@ -41,7 +41,7 @@ His current research works include:
 - Drosophila, algal, plant and microbial experiments
 
 
-### **Pachara Sattayawat, PhD**
+### **PACHARA SATTAYAWAT, PhD**
 #### Biologist - Microbiologist - Molecular Biologist
 
 **Lecturer in Synthetic Biology, BIOL, CMU, Thailand**
