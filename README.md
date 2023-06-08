@@ -1,15 +1,20 @@
-![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/f44a9a53-7a2b-4e1b-a0d7-3e3d75b9776c)
 # SYSTEMS AND SYNTHETIC BIOLOGY LABORATORY
 ## Chiang Mai University, Thailand
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/f44a9a53-7a2b-4e1b-a0d7-3e3d75b9776c)
 ---
-## Exploring the Frontiers of Life via Systems and Synthetic Biology
+# Exploring the Frontiers of Life via Systems and Synthetic Biology
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/034c6ec8-82d5-4024-a3a8-ad832bfc8020)>  
      
 # About us
 
-# Research theme
+--- 
 
+# Research theme
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/8794ab33-d4c4-4d50-b763-c472617374f2)
+
+---
 # Member 
+
 
 ## **SAHUTCHAI INWONGWAN (GLA), DPhil**
 ### Scientist - Biologist - Biochemist
