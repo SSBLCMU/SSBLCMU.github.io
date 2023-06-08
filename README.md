@@ -1,11 +1,12 @@
-  
-![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/f44a9a53-7a2b-4e1b-a0d7-3e3d75b9776c)
-# SYSTEMS AND SYNTHETIC BIOLOGY LABORATORY
-## Chiang Mai University, Thailand
----
-## Exploring the Frontiers of Life via Systems and Synthetic Biology
-![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/034c6ec8-82d5-4024-a3a8-ad832bfc8020) 
-
+<p align="center" 
+   <![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/f44a9a53-7a2b-4e1b-a0d7-3e3d75b9776c)
+   # SYSTEMS AND SYNTHETIC BIOLOGY LABORATORY
+   ## Chiang Mai University, Thailand
+    ---
+   ## Exploring the Frontiers of Life via Systems and Synthetic Biology
+   ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/034c6ec8-82d5-4024-a3a8-ad832bfc8020)>
+   
+     
 # About us
 
 # Research theme
