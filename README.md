@@ -1,8 +1,8 @@
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/f44a9a53-7a2b-4e1b-a0d7-3e3d75b9776c)
+
 <h1 align="center">SYSTEMS AND SYNTHETIC BIOLOGY LABORATORY</h1>
 
 <h2 align="center">Chiang Mai University, Thailand</h2>
-
-![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/f44a9a53-7a2b-4e1b-a0d7-3e3d75b9776c)
 
 ---
 <h1 align="center">Testing the limits of Life via Systems and Synthetic Biology</h1>
@@ -18,7 +18,6 @@
 
 ---
 # Member 
-
 
 ## **SAHUTCHAI INWONGWAN (GLA), DPhil**
 ### Scientist - Biologist - Biochemist
