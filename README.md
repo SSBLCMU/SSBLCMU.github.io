@@ -1,6 +1,7 @@
 # SYSTEMS AND SYNTHETIC BIOLOGY LABORATORY
 ## Chiang Mai University, Thailand
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/f44a9a53-7a2b-4e1b-a0d7-3e3d75b9776c)
+
 ---
 # Exploring the Frontiers of Life via Systems and Synthetic Biology
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/034c6ec8-82d5-4024-a3a8-ad832bfc8020)>  
@@ -51,25 +52,14 @@ Pachara received her PhD from Imperial College London …..
 ---
 
 #### Research
-**Flux Capacitor: How mitochondria modulate metabolic flux and gene expression, 2020 - ongoing**
-Funded by BBSRC, PI: Prof. Nick Lane
-Genetics, Evolution & Environment, Devision of Biosciences, University College London
 
-**Metabolic flux analysis in *Euglena gracilis*, 2020** 
-Supervisors: Prof. Dr. George Ratcliffe, Dr. Nick Kruger and Dr. Ellis O’Neill
-Department of Plant Sciences, University of Oxford
+**Investigating physiological effects of mito-nuclear incompatibilities in Drosophila
+Metabolic modelling of Euglena for industrial applications
+Astrobiochemistry, modeliing the optimal network for extraterrestrial conditions.
+Metabolic analysis in cancer cells
+Production of attractive chemicals through reconstructed synthetic pathways
 
-***Euglena* central metabolic pathways and their subcellular locations, 2019**
-Sahutchai Inwongwan, Nicholas J. Kruger, R. George Ratcliffe and Ellis C. O’Neill
-Metabolites 2019, 9(6), 115; https://doi.org/10.3390/metabo9060115
 
-**Interspecific interaction between marine *Chrysochromulina* spp. and their associated bacteria, 2015**
-Advisor: Prof. Dr. Rose Ann Cattolico, University of Washington
-Funded by Development and Promotion of Science and Technology talents project (DPST)
-
-**Isolation and cultivation of *Botryococcus braunii* Kützing for hydrocarbon production, 2015**
-Advisor: Asst. Dr. Jeeraporn Pekkoh 
-Funded by Junior Science Talent Project (JSTP), NSTDA
 
 ---
 
