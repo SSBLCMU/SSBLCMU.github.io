@@ -30,9 +30,6 @@ His current research works include:
 - Metabolic modelling of Euglena for industrial applications
 - Astrobiochemistry, modeliing the optimal network fro extraterrestrial conditions.  
 - Metabolic analysis in cancer cells
-
----
-
 #### Key Skills
 - Metabolic flux analysis
 - Metabolic network reconstruction and modelling 
@@ -40,6 +37,16 @@ His current research works include:
 - Gas chromatography–mass spectrometry (GC-MS) and flow cytometry
 - Electron and fluorescence microscopy 
 - Drosophila, algal, plant and microbial experiments
+
+
+
+## **Pachara Sattayawat, PhD**
+### Biologist - Microbiologist - Molecular Biologist
+
+**Lecturer in Synthetic Biology, BIOL, CMU, Thailand**
+
+Pachara received her PhD from Imperial College London …..
+
 
 ---
 
