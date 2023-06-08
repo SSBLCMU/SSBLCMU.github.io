@@ -2,7 +2,7 @@
 ## Chiang Mai University, Thailand
 
 ## Exploring the Frontiers of Life via Systems and Synthetic Biology
-![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/6f1051c9-01ce-4966-9cb1-51806af01613)
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/034c6ec8-82d5-4024-a3a8-ad832bfc8020)
 
 
 ## **SAHUTCHAI INWONGWAN (GLA), DPhil**
