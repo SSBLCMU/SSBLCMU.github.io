@@ -1,4 +1,4 @@
-#   
+###### Systems and Sythetic Biology Laboratory (SSBL), Chiang Mai University, Thailand
    
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/f44a9a53-7a2b-4e1b-a0d7-3e3d75b9776c)
 
@@ -7,7 +7,7 @@
 <h2 align="center">Chiang Mai University, Thailand</h2>
 
 ---
-<h1 align="center">Testing the limits of Life via Systems and Synthetic Biology</h1>
+<h1 align="center">Challenging the limits of Life via Systems and Synthetic Biology</h1>
 
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/034c6ec8-82d5-4024-a3a8-ad832bfc8020)>  
      
