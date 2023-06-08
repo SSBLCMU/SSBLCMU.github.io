@@ -1,5 +1,3 @@
-Systems and Sythetic Biology Laboratory (SSBL), Chiang Mai University, Thailand
-   
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/f44a9a53-7a2b-4e1b-a0d7-3e3d75b9776c)
 
 <h1 align="center">SYSTEMS AND SYNTHETIC BIOLOGY LABORATORY</h1>
@@ -11,19 +9,18 @@ Systems and Sythetic Biology Laboratory (SSBL), Chiang Mai University, Thailand
 
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/034c6ec8-82d5-4024-a3a8-ad832bfc8020)>  
      
-# About us
+## About us
 
 --- 
 
-# Research theme
+## Research theme
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/8794ab33-d4c4-4d50-b763-c472617374f2)
 
 ---
-# Member 
+## Member 
 
-## **SAHUTCHAI INWONGWAN (GLA), DPhil**
-### Scientist - Biologist - Biochemist
-
+### **SAHUTCHAI INWONGWAN (GLA), DPhil**
+#### Scientist - Biologist - Biochemist
 **Lecturer in Systems Biology, BIOL, CMU, Thailand**
 **Honorary Research Fellow, GEE, UCL, UK**
 
@@ -44,26 +41,23 @@ His current research works include:
 - Drosophila, algal, plant and microbial experiments
 
 
-
-## **Pachara Sattayawat, PhD**
-### Biologist - Microbiologist - Molecular Biologist
+### **Pachara Sattayawat, PhD**
+#### Biologist - Microbiologist - Molecular Biologist
 
 **Lecturer in Synthetic Biology, BIOL, CMU, Thailand**
 
 Pachara received her PhD from Imperial College London …..
-
+#### Key Skills
 
 ---
 
-#### Research
+## Research
 
-**Investigating physiological effects of mito-nuclear incompatibilities in Drosophila
-Metabolic modelling of Euglena for industrial applications
-Astrobiochemistry, modeliing the optimal network for extraterrestrial conditions.
-Metabolic analysis in cancer cells
-Production of attractive chemicals through reconstructed synthetic pathways
-
-
+* Investigating physiological effects of mito-nuclear incompatibilities in Drosophila
+* Metabolic modelling of Euglena for industrial applications
+* Astrobiochemistry, modeliing the optimal network for extraterrestrial conditions.
+* Metabolic analysis in cancer cell
+* Production of attractive chemicals through reconstructed synthetic pathways
 
 ---
 
