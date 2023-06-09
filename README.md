@@ -20,10 +20,27 @@ Within our laboratory, we employ synthetic biology techniques to create and engi
 --- 
 
 ## Research theme
+### **Systems and synthetic biology of Euglena***
+
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/db31824a-6f5e-46de-8dae-baf4a9b1880f)
+
+### **Metabolic network modelling and metabolic flux analysis**
+
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/8794ab33-d4c4-4d50-b763-c472617374f2)
 
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/743baf22-a665-46af-bff4-c342790fd043)
+
 ---
-## Member 
+## Our team 
+### **PACHARA SATTAYAWAT, PhD**
+#### Biologist - Microbiologist - Molecular Biologist
+
+**Lecturer in Synthetic Biology, BIOL, CMU, Thailand**
+
+Pachara received her PhD from Imperial College London …..
+
+#### Key Skills
+
 
 ### **SAHUTCHAI INWONGWAN (GLA), DPhil**
 #### Scientist - Biologist - Biochemist
@@ -38,6 +55,7 @@ His current research works include:
 - Metabolic modelling of Euglena for industrial applications
 - Astrobiochemistry, modeliing the optimal network fro extraterrestrial conditions.  
 - Metabolic analysis in cancer cells
+
 #### Key Skills
 - Metabolic flux analysis
 - Metabolic network reconstruction and modelling 
@@ -46,14 +64,6 @@ His current research works include:
 - Electron and fluorescence microscopy 
 - Drosophila, algal, plant and microbial experiments
 
-
-### **PACHARA SATTAYAWAT, PhD**
-#### Biologist - Microbiologist - Molecular Biologist
-
-**Lecturer in Synthetic Biology, BIOL, CMU, Thailand**
-
-Pachara received her PhD from Imperial College London …..
-#### Key Skills
 
 ---
 
