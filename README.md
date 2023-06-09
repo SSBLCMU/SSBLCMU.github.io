@@ -38,6 +38,7 @@ Within our laboratory, we employ synthetic biology techniques to create and engi
 
 ---
 ## Our team 
+
 ### **PACHARA SATTAYAWAT, PhD**
 #### Biologist - Microbiologist - Molecular Biologist
 
@@ -48,7 +49,7 @@ Pachara received her PhD from Imperial College London …..
 #### Key Skills
 
 
-
+![167161108-23827563-6719-44b0-9f51-749c15a92c4b](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/409af183-bd3d-434d-9a14-1ac8583172e1)
 ### **SAHUTCHAI INWONGWAN (GLA), DPhil**
 #### Scientist - Biologist - Biochemist
 **Lecturer in Systems Biology, BIOL, CMU, Thailand**
