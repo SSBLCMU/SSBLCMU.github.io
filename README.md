@@ -11,7 +11,11 @@
      
 ## About us
 
-Welcome to the Systems and Synthetic Biology Laboratory at Chiang Mai University's Department of Biology! Our lab, known as the Systems and Synthetic Biology Laboratory, is dedicated to pushing the boundaries of life through innovative approaches in systems and synthetic biology. We employ theoretical analysis and experimental investigations to determine, understand, optimize, and manipulate various living organisms such as microalgae, bacteria, cyanobacteria, extremophiles, Drosophila melanogaster, and mitochondrial isolates. Our goal is to challenge the limits of life itself under the concept of "Challenging the limits of Life via Systems and Synthetic Biology." Join us as we explore and advance the fascinating world of systems and synthetic biology at Chiang Mai University.
+Welcome to the Systems and Synthetic Biology Laboratory (SSBL) at Chiang Mai University (CMU). Our laboratory group, situated within the Department of Biology, is at the forefront of cutting-edge research in the field of systems and synthetic biology.
+
+At SSBL, we are dedicated to pushing the boundaries of scientific exploration by employing the principles of synthetic biology to study, manipulate, and optimize living organisms. Our primary focus lies in utilizing synthetic biology approaches to theoretically analyze, discern, investigate, and optimize the behavior of various organisms. We work with a diverse range of organisms, including microalgae, bacteria, cyanobacteria, extremophiles, droshopkicas, and mitochondria isolates. One of our key objectives is to challenge the limits of life through the lens of systems and synthetic biology. By combining the power of computational modeling, data analysis, and experimental techniques, we strive to generate valuable insights into the fundamental workings of living systems.
+
+Within our laboratory, we employ synthetic biology techniques to create and engineer experimental data sets that aid in understanding and advancing the field of systems biology. By manipulating genetic circuits, metabolic pathways, and cellular processes, we aim to uncover novel approaches for improving biotechnological applications and addressing real-world challenges.
 
 --- 
 
