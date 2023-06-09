@@ -11,6 +11,8 @@
      
 ## About us
 
+Welcome to the Systems and Synthetic Biology Laboratory at Chiang Mai University's Department of Biology! Our lab, known as the Systems and Synthetic Biology Laboratory, is dedicated to pushing the boundaries of life through innovative approaches in systems and synthetic biology. We employ theoretical analysis and experimental investigations to determine, understand, optimize, and manipulate various living organisms such as microalgae, bacteria, cyanobacteria, extremophiles, Drosophila melanogaster, and mitochondrial isolates. Our goal is to challenge the limits of life itself under the concept of "Challenging the limits of Life via Systems and Synthetic Biology." Join us as we explore and advance the fascinating world of systems and synthetic biology at Chiang Mai University.
+
 --- 
 
 ## Research theme
