@@ -8,7 +8,8 @@
 <h1 align="center">Challenging the limits of Life via Systems and Synthetic Biology</h1>
 
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/034c6ec8-82d5-4024-a3a8-ad832bfc8020)
-     
+
+<img src="https://your-image-url.type](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/034c6ec8-82d5-4024-a3a8-ad832bfc8020" width="300">     
 ## About us
 
 Welcome to the Systems and Synthetic Biology Laboratory (SSBL) at Chiang Mai University (CMU). Our laboratory group, situated within the Department of Biology, is at the forefront of cutting-edge research in the field of systems and synthetic biology.
