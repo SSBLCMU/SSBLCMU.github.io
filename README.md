@@ -80,10 +80,9 @@ His current research works include:
 - Electron and fluorescence microscopy 
 - Drosophila, algal, plant and microbial experiments
 
-
 ---
 
-## Research
+## Our ongoing research
 
 * Investigating physiological effects of mito-nuclear incompatibilities in Drosophila
 * Metabolic modelling of Euglena for industrial applications
@@ -95,9 +94,7 @@ His current research works include:
 
 ## Contact
 ```
-SAHUTCHAI INWONGWAN, DPhil
-Lecturer in Systems Biology
-Room BB20406
+Systems and Synthetic Biology Laboratory
 Department of Biology, Faculty of Science
 Chiang Mai University
 239 Huay Keaw Rd, Tambon Su Thep, Mueang District
