@@ -17,7 +17,7 @@ At SSBL, we are dedicated to pushing the boundaries of scientific exploration by
 
 Within our laboratory, we employ synthetic biology techniques to create and engineer experimental data sets that aid in understanding and advancing the field of systems biology. By manipulating genetic circuits, metabolic pathways, and cellular processes, we aim to uncover novel approaches for improving biotechnological applications and addressing real-world challenges.
 
---- 
+### --- 
 
 ## Research theme
 ### **Systems and synthetic biology of Euglena**
@@ -46,9 +46,16 @@ Within our laboratory, we employ synthetic biology techniques to create and engi
 
 **Lecturer in Synthetic Biology, BIOL, CMU, Thailand**
 
-Pachara received her PhD from Imperial College London …..
+Pachara received her PhD from Imperial College London, UK, in microbial metabolic engineering and synthetic biology. Her research focuses on engineering of bacteria and cyanobacteria for enhanced characteristics, including for bioproduction. Her scope starts from system/pathway design, putative protein discovery and all the way to pathway implementation in microbial hosts using synthetic biology-based approaches. To benefit from high cyanobacterial diversity in tropical areas, she recently expanded her research interests to include the characterization of new cyanobacterial strains as robust models for genetic engineering. 
 
-#### Key Skills
+#### Key skills
+- Genetic engineering
+- Metabolic pathway design, implementation and characterization
+- Gene expression 
+- Chemical analytical tools - High-performance liquid chromatography (HPLC, gas chromatography - mass spectrometry (GC-MS)
+- Microbial cultivation and fermentation
+
+
 
 
 ![167161108-23827563-6719-44b0-9f51-749c15a92c4b](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/409af183-bd3d-434d-9a14-1ac8583172e1)
