@@ -7,7 +7,7 @@
 ---
 <h1 align="center">Challenging the limits of Life via Systems and Synthetic Biology</h1>
 
-![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/034c6ec8-82d5-4024-a3a8-ad832bfc8020)  
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/034c6ec8-82d5-4024-a3a8-ad832bfc8020)
      
 ## About us
 
@@ -17,7 +17,7 @@ At SSBL, we are dedicated to pushing the boundaries of scientific exploration by
 
 Within our laboratory, we employ synthetic biology techniques to create and engineer experimental data sets that aid in understanding and advancing the field of systems biology. By manipulating genetic circuits, metabolic pathways, and cellular processes, we aim to uncover novel approaches for improving biotechnological applications and addressing real-world challenges.
 
-### --- 
+--- 
 
 ## Research theme
 ### **Systems and synthetic biology of Euglena**
@@ -39,7 +39,7 @@ Within our laboratory, we employ synthetic biology techniques to create and engi
 ---
 ## Our team 
 
-![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/c13b6284-1a4d-4c7b-ac4f-8207b5d28573)
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/c13b6284-1a4d-4c7b-ac4f-8207b5d28573 =250x250)
 
 ### **PACHARA SATTAYAWAT, PhD**
 #### Biologist - Microbiologist - Molecular Biologist
@@ -58,7 +58,7 @@ Pachara received her PhD from Imperial College London, UK, in microbial metaboli
 
 
 
-![167161108-23827563-6719-44b0-9f51-749c15a92c4b](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/409af183-bd3d-434d-9a14-1ac8583172e1)
+![167161108-23827563-6719-44b0-9f51-749c15a92c4b](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/409af183-bd3d-434d-9a14-1ac8583172e1 =250x250)
 ### **SAHUTCHAI INWONGWAN (GLA), DPhil**
 #### Scientist - Biologist - Biochemist
 **Lecturer in Systems Biology, BIOL, CMU, Thailand**
