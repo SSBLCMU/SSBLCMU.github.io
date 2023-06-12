@@ -8,8 +8,7 @@
 <h1 align="center">Challenging the limits of Life via Systems and Synthetic Biology</h1>
 
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/034c6ec8-82d5-4024-a3a8-ad832bfc8020)
-
-<img src="https://your-image-url.type](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/034c6ec8-82d5-4024-a3a8-ad832bfc8020" width="300">     
+  
 ## About us
 
 Welcome to the Systems and Synthetic Biology Laboratory (SSBL) at Chiang Mai University (CMU). Our laboratory group, situated within the Department of Biology, is at the forefront of cutting-edge research in the field of systems and synthetic biology.
@@ -40,7 +39,7 @@ Within our laboratory, we employ synthetic biology techniques to create and engi
 ---
 ## Our team 
 
-![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/c13b6284-1a4d-4c7b-ac4f-8207b5d28573 =250x250)
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/c13b6284-1a4d-4c7b-ac4f-8207b5d28573)
 
 ### **PACHARA SATTAYAWAT, PhD**
 #### Biologist - Microbiologist - Molecular Biologist
@@ -58,8 +57,7 @@ Pachara received her PhD from Imperial College London, UK, in microbial metaboli
 
 
 
-
-![167161108-23827563-6719-44b0-9f51-749c15a92c4b](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/409af183-bd3d-434d-9a14-1ac8583172e1 =250x250)
+![167161108-23827563-6719-44b0-9f51-749c15a92c4b](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/409af183-bd3d-434d-9a14-1ac8583172e1)
 ### **SAHUTCHAI INWONGWAN (GLA), DPhil**
 #### Scientist - Biologist - Biochemist
 **Lecturer in Systems Biology, BIOL, CMU, Thailand**
