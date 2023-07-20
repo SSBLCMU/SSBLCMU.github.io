@@ -39,7 +39,7 @@ Within our laboratory, we employ synthetic biology techniques to create and engi
 ---
 ## Our team 
 
-![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/c13b6284-1a4d-4c7b-ac4f-8207b5d28573)
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/35043201-ee43-4951-bc06-de3bb80524a4)
 
 ### **PACHARA SATTAYAWAT, PhD**
 #### Biologist - Microbiologist - Molecular Biologist
