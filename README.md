@@ -48,6 +48,9 @@ Within our laboratory, we employ synthetic biology techniques to create and engi
 
 Pachara received her PhD from Imperial College London, UK, in microbial metabolic engineering and synthetic biology. Her research focuses on engineering of bacteria and cyanobacteria for enhanced characteristics, including for bioproduction. Her scope starts from system/pathway design, putative protein discovery and all the way to pathway implementation in microbial hosts using synthetic biology-based approaches. To benefit from high cyanobacterial diversity in tropical areas, she recently expanded her research interests to include the characterization of new cyanobacterial strains as robust models for genetic engineering. 
 
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/7ab7bce9-84e2-4590-91f5-75d10e9c4084)
+Credit: Sattayawat et al., 2023
+
 #### Key skills
 - Genetic engineering
 - Metabolic pathway design, implementation and characterization
