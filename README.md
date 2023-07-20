@@ -22,14 +22,11 @@ Within our laboratory, we employ synthetic biology techniques to create and engi
 ## Research theme
 ### **Systems and synthetic biology of Euglena**
 
-
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/db31824a-6f5e-46de-8dae-baf4a9b1880f)
 
 ### **Metabolic network modelling and metabolic flux analysis**
 
-
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/8794ab33-d4c4-4d50-b763-c472617374f2)
-
 
 ---
 ## Our team 
@@ -105,3 +102,4 @@ email: sahutchai.inwongwan@cmu.ac.th, s.inwongwan@ucl.ac.uk
 Tel: +66 821972128
 ```
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/1a392cb9-0777-458a-9213-ca3584f60f45)
+
