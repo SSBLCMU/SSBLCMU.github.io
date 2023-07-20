@@ -39,7 +39,7 @@ Within our laboratory, we employ synthetic biology techniques to create and engi
 ---
 ## Our team 
 
-![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/35043201-ee43-4951-bc06-de3bb80524a4)
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/ac2c3da1-d878-4082-bfd0-9ec8c6ba79ab)
 
 ### **PACHARA SATTAYAWAT, PhD**
 #### Biologist - Microbiologist - Molecular Biologist
@@ -57,7 +57,9 @@ Pachara received her PhD from Imperial College London, UK, in microbial metaboli
 
 
 
-![167161108-23827563-6719-44b0-9f51-749c15a92c4b](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/409af183-bd3d-434d-9a14-1ac8583172e1)
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/35f7ff8b-ce3e-4c13-8842-0e4a6cbbed8d)
+
+
 ### **SAHUTCHAI INWONGWAN (GLA), DPhil**
 #### Scientist - Biologist - Biochemist
 **Lecturer in Systems Biology, BIOL, CMU, Thailand**
