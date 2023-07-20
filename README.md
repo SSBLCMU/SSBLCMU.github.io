@@ -31,11 +31,6 @@ Within our laboratory, we employ synthetic biology techniques to create and engi
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/8794ab33-d4c4-4d50-b763-c472617374f2)
 
 
-
-![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/743baf22-a665-46af-bff4-c342790fd043)
-
-
-
 ---
 ## Our team 
 
@@ -77,6 +72,8 @@ His current research works include:
 - Astrobiochemistry, modeliing the optimal network fro extraterrestrial conditions.  
 - Metabolic analysis in cancer cells
 
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/743baf22-a665-46af-bff4-c342790fd043)
+
 #### Key Skills
 - Metabolic flux analysis
 - Metabolic network reconstruction and modelling 
@@ -107,5 +104,4 @@ Chiang Mai, Thailand, 50200
 email: sahutchai.inwongwan@cmu.ac.th, s.inwongwan@ucl.ac.uk
 Tel: +66 821972128
 ```
-![unnamed-5](https://user-images.githubusercontent.com/77986547/166148973-b247c06c-0b85-4042-a590-12fdbff6ca1e.jpg)
-Hugging Gourd, GLA, London, April 2021
+![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/1a392cb9-0777-458a-9213-ca3584f60f45)
