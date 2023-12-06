@@ -59,7 +59,7 @@ Credit: Sattayawat et al., 2023
 #### Scientist - Biologist - Biochemist
 **Lecturer in Systems Biology, BIOL, CMU, Thailand**
 
-**Honorary Research Fellow, GEE, UCL, UK**
+#### **Honorary Research Fellow, GEE, UCL, UK**
 
 Sahutchai completed a DPhil (PhD) degree from the Department of Plant Sciences, University of Oxford. 
 His thesis explored the capacities of Euglena metabolic network using metabolic flux analysis techniques. 
