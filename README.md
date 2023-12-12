@@ -63,11 +63,11 @@ Credit: Sattayawat et al., 2023
 
 Sahutchai completed a DPhil (PhD) degree from the Department of Plant Sciences, University of Oxford. 
 His thesis explored the capacities of Euglena metabolic network using metabolic flux analysis techniques. 
-He was working as a research fellow at University College London before moving back to Chiang Mai, Thailand, for his lecturership in Systems biology.
+He was working as a research fellow at University College London before moving back to Chiang Mai, Thailand, for his lectureship in Systems biology.
 His current research works include: 
 - Investigating physiological effects of mito-nuclear incompatibilities in Drosophila
 - Metabolic modelling of Euglena for industrial applications
-- Astrobiochemistry, modeliing the optimal network fro extraterrestrial conditions.  
+- Astrobiochemistry, modelling the optimal network for extraterrestrial conditions.  
 - Metabolic analysis in cancer cells
 
 ![image](https://github.com/SSBLCMU/SSBLCMU.github.io/assets/135954747/743baf22-a665-46af-bff4-c342790fd043)
